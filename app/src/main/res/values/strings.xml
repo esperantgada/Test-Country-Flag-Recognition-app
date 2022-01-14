@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Test Your Country Knowledge</string>
+    <string name="test_your_country_knowledge">Test your Country Knowledge</string>
+    <string name="welcome">WELCOME</string>
+    <string name="please_enter_your_name">Please, enter your name</string>
+    <string name="name">name</string>
+    <string name="start">START</string>
+    <string name="hello_world">Hello world</string>
+    <string name="what_country_does_this_flag_belong_to">What Country does this flag belong to?</string>
+    <string name="submit">SUBMIT</string>
+    <string name="result">RESULT</string>
+    <string name="hey_congratulation">Hey, Congratulation!</string>
+    <string name="user_name">User name</string>
+    <string name="esperant">Esperant</string>
+    <string name="your_score_is">Your score is %d out of 20</string>
+    <string name="your_score_is_10_out_of_20">Your score is 10 out of 20</string>
+    <string name="finish">FINISH</string>
+</resources>
